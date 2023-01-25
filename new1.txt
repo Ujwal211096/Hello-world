@@ -1,1 +1,7 @@
 hello from git
+this file is tracked by git!
+
+Nw that we have added and commited the file, let us add one more line.
+this is another line.
+
+add one more line.
